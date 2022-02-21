@@ -1,6 +1,5 @@
-{ "New Update":"Update",
- "versionCode":5.0.0,
- "force":true,
- "link":"https://www.mediafire.com/download/41jul8wbxznp4r6",
- "message":[ "New version is available to download" 
-] }
+{
+ "versionCode": "2.0",
+ "url": "https://www.mediafire.com/download/41jul8wbxznp4r6",
+ "Message": "Testing"
+ }
